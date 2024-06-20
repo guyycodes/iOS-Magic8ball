@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![App Brewery Banner](https://github.com/guyycodes/iOS-Magic8ball/blob/main/Magic-8-Ball-iOS13/Documentation/AppBreweryBanner.png)
 
 # Magic 8 Ball
 
